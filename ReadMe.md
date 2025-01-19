@@ -56,6 +56,11 @@
 - **Domain**: Object Detection
 - **Highlights**: Real-time object detection model known for its speed and efficiency.
 
+### 11. **LLM Quantization (Large Language Model Quantization)**
+
+- **Domain**: Natural Language Processing
+- **Highlights**: Focuses on reducing the memory footprint and computational requirements of large language models by representing weights and activations in lower-precision formats (e.g., INT8, INT4) without significant loss in model accuracy. This technique enables faster inference and deployment on edge devices and resource-constrained environments.
+
 ## Key Features
 
 - **From-Scratch Implementations**: Each model is implemented from scratch using Python and deep learning frameworks such as TensorFlow or PyTorch.
